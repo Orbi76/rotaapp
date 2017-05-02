@@ -1,10 +1,10 @@
 <?php
 $path = $_SERVER['DOCUMENT_ROOT'];
-$path .= "/RotaCreator/header.php";
+$path .= "/header.php";
 include_once($path);
 
 $path = $_SERVER['DOCUMENT_ROOT'];
-$path .= "/RotaCreator/class.dbconnection.php";
+$path .= "/class.dbconnection.php";
 include_once($path);
 
 include_once("navbar.php");
