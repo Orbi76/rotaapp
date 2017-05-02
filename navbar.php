@@ -6,7 +6,7 @@
         <div>
             <ul class="nav navbar-nav">
                 <li><a href="datepicker.php"><span class="glyphicon glyphicon-home"></span> Home</a></li>
-                <li><a href="datepic.php"><span class="glyphicon glyphicon-user"></span> Choose Employee</a></li>
+                <li><a href="datepic1.php"><span class="glyphicon glyphicon-user"></span> Choose Employee</a></li>
                 <li><a href="addemployee.php"><span class="glyphicon glyphicon-book"></span> Add Employee</a></li>
                 <li><a href="login.php"><span class="glyphicon glyphicon-book"></span> Log in!</a></li>
                 <li><a href="table_insp.php"><span class="glyphicon glyphicon-book"></span> Table!</a></li>
